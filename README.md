@@ -16,10 +16,10 @@ While your dragon analysis does not directly apply to a real physical situation,
 
 Your submission should consist of:
 
-● One-page Summary Sheet,
-● Two-page letter,
-● Your solution of no more than 20 pages, for a maximum of 23 pages with your summary and letter.
-● Note: Reference list and any appendices do not count toward the 23-page limit and should appear after your completed solution.
+* One-page Summary Sheet,
+* Two-page letter,
+* Your solution of no more than 20 pages, for a maximum of 23 pages with your summary and letter.
+* Note: Reference list and any appendices do not count toward the 23-page limit and should appear after your completed solution.
 
 NOTE: You should not make use of unauthorized images and materials whose use is restricted by copyright laws. Please be careful in how you use and cite the sources for your ideas and the materials used in your report.
 
