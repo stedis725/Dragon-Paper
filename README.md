@@ -1,5 +1,5 @@
 # MCM-Prep
-Preparation for the 2020 Mathematical Contest in Modeling (MCM), answering Problem 1 from the 2019 MCM.  The problem statement is below, and the final paper presenting our results is attached.
+Preparation for the 2020 Mathematical Contest in Modeling (MCM), answering Problem 1 from the 2019 MCM.  The problem statement is below, and the final paper presenting our results is attached. Please note that our preparatory work involved critiquing and then building upon the winning MCM paper from 2019, which we did not write. All code is completely original.
 
 # Problem	 
  	
